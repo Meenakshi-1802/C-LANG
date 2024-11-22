@@ -1,4 +1,4 @@
-Operator Precedence
+//Operator Precedence
 #include<stdio.h>
 int main() {
     int a = 4*3/6*2;
